@@ -7,7 +7,8 @@ description: <a href="#">Affiliations</a>. Address. Contacts. Moto. Etc.
 profile:
   align: left
   image: prof_pic.jpg
-  address: >
+  address: <b>Jesús D. Arroyo Relión</b><br>Postdoctoral Fellow<br>University of Maryland<br>Johns Hopkins University
+
 
 news: true
 social: true
