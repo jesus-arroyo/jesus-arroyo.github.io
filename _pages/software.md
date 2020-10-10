@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Software
+order: 3
 permalink: /software/
 description: 
 nav: true

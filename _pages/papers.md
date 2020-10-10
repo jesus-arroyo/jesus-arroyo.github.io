@@ -2,6 +2,7 @@
 layout: page
 permalink: /research/
 title: Research
+order: 2
 description: 
 years: [1956, 1950, 1935, 1905]
 nav: true
@@ -16,16 +17,29 @@ For a full list of articles, see my [Google Scholar](https://scholar.google.com/
 
 ### Pre-prints under review
 
-* Arroyo, J., & Levina, E. (2020). [Simultaneous prediction and community detection for networks with application to neuroimaging.](https://arxiv.org/pdf/2002.01645.pdf) arXiv preprint arXiv:2002.01645.
+* Overlapping community detection in networks via sparse spectral decomposition (2020)<br>
+Jesús Arroyo, Elizaveta Levina<br>
+[[preprint]](https://arxiv.org/abs/2009.10641) [[code]](https://github.com/jesusdaniel/spcaCD)
 
-* Arroyo, J., Priebe, C. E., & Lyzinski, V. (2020). [Graph matching between bipartite and unipartite networks: to collapse, or not to collapse, that is the question](https://arxiv.org/pdf/2002.01648.pdf). arXiv preprint arXiv:2002.01648.
+* Simultaneous prediction and community detection for networks with application to neuroimaging (2020)<br>
+Jesús Arroyo, Elizaveta Levina<br>
+[[preprint]](https://arxiv.org/pdf/2002.01645.pdf)[[code]](https://github.com/jesusdaniel/glmblock)
 
-* Arroyo, J., Athreya, A., Cape, J., Chen, G., Priebe, C. E., & Vogelstein, J. T. (2019). [Inference for multiple heterogeneous networks with a common invariant subspace](https://arxiv.org/pdf/1906.10026.pdf). arXiv preprint arXiv:1906.10026.
+* Graph matching between bipartite and unipartite networks: to collapse, or not to collapse, that is the question (2020)<br>
+Jesús Arroyo, Carey E. Priebe, Vince Lyzinski<br>
+[[preprint]](https://arxiv.org/abs/2002.01648)
 
-* Arroyo, J., Sussman, D. L., Priebe, C. E., & Lyzinski, V. (2018). [Maximum likelihood estimation and graph matching in errorfully observed networks.]() arXiv preprint arXiv:1812.10519.
+* Maximum Likelihood Estimation and Graph Matching in Errorfully Observed Networks (2018)
+<br>
+Jesús Arroyo, Daniel L. Sussman, Carey E. Priebe, Vince Lyzinski
+<br>
+[[preprint]](https://arxiv.org/pdf/1812.10519.pdf) [[code]](https://github.com/dpmcsuss/gmmle)
 
 
 ### Accepted publications
+
+* Arroyo, J., Athreya, A., Cape, J., Chen, G., Priebe, C. E., & Vogelstein, J. T. (2019). [Inference for multiple heterogeneous networks with a common invariant subspace](https://arxiv.org/pdf/1906.10026.pdf). Journal of Machine Learning Research (to appear) arXiv preprint arXiv:1906.10026.
+
 
 * Arroyo Relión, J. D., Kessler, D., Levina, E., & Taylor, S. F. (2019). [Network classification with applications to brain connectomics.](https://projecteuclid.org/euclid.aoas/1571277767) The Annals of Applied Statistics, 13(3), 1648-1677.
 
