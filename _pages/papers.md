@@ -22,7 +22,7 @@ For a full list of articles, see my [Google Scholar](https://scholar.google.com/
 
 * **Maximum Likelihood Estimation and Graph Matching in Errorfully Observed Networks**
 <br>
-*Jesús Arroyo*, Daniel L. Sussman, Carey E. Priebe, Vince Lyzinski
+**Jesús Arroyo**, Daniel L. Sussman, Carey E. Priebe, Vince Lyzinski
 <br>
 *Journal of Computational and Graphical Statistics (2020), to appear.*<br>
 [[preprint]](https://arxiv.org/pdf/1812.10519.pdf) [[code]](https://github.com/dpmcsuss/gmmle)
@@ -46,9 +46,9 @@ Shangsi Wang, **Jesús Arroyo**, Joshua T. Vogelstein, Carey E. Priebe<br>
 
 
 * **Efficient distributed estimation of inverse covariance matrices**<br>
-*Jesús Arroyo*, Elizabeth Hou<br>
+**Jesús Arroyo**, Elizabeth Hou<br>
 *IEEE Statistical Signal Processing Workshop (SSP) (2016)*<br>
-[[conference proceedings]](https://ieeexplore.ieee.org/abstract/document/7551705). In 
+[[conference proceedings]](https://ieeexplore.ieee.org/abstract/document/7551705)
 
 
 
