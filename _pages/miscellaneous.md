@@ -5,7 +5,7 @@ title: Miscellaneous
 order: 5
 description: 
 years: 
-nav: true
+nav: false
 ---
 
 
