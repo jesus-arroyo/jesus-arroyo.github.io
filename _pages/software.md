@@ -4,7 +4,7 @@ title: Software
 order: 4
 permalink: /software/
 description: 
-nav: true
+nav: false
 ---
 
 <div class="projects grid">

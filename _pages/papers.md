@@ -20,10 +20,8 @@ For a full list of articles, please check my [Google Scholar](https://scholar.go
 *Sankhya A (Special Issue on Network Analysis)* (2020), accepted pending minor revisions.<br>
 [[preprint]](https://arxiv.org/abs/2009.10641)[[code]](https://github.com/jesusdaniel/spcaCD)
 
-* **Maximum Likelihood Estimation and Graph Matching in Errorfully Observed Networks**
-<br>
-*Jesús Arroyo*, Daniel L. Sussman, Carey E. Priebe, Vince Lyzinski
-<br>
+* **Maximum Likelihood Estimation and Graph Matching in Errorfully Observed Networks**<br>
+*Jesús Arroyo*, Daniel L. Sussman, Carey E. Priebe, Vince Lyzinski<br>
 *Journal of Computational and Graphical Statistics* (2020), to appear.<br>
 [[preprint]](https://arxiv.org/pdf/1812.10519.pdf) [[code]](https://github.com/dpmcsuss/gmmle)
 
@@ -32,17 +30,15 @@ For a full list of articles, please check my [Google Scholar](https://scholar.go
 *Journal of Machine Learning* (2020), to appear.<br>
 [[preprint]](https://arxiv.org/pdf/1906.10026.pdf)[[R code]](https://github.com/jesusdaniel/mase)[[Python code]](https://graspy.neurodata.io/reference/embed.html#multiple-graph-embedding)
 
+* **Joint embedding of graphs**<br>
+Shangsi Wang, *Jesús Arroyo*, Joshua T. Vogelstein, Carey E. Priebe<br>
+*IEEE Transactions on Pattern Analysis and Machine Intelligence* (2019), in press.<br>
+[[journal]](https://ieeexplore.ieee.org/abstract/document/8889404/) 
 
 * **Network classification with applications to brain connectomics**<br>
 *Jesús D. Arroyo Relión*, Daniel Kessler, Elizaveta Levina, Stephan F. Taylor<br>
 *The Annals of Applied Statistics* (2019), 13(3), 1648-1677.<br>
 [[journal]](https://projecteuclid.org/euclid.aoas/1571277767) 
-
-
-* **Joint embedding of graphs**<br>
-Shangsi Wang, *Jesús Arroyo*, Joshua T. Vogelstein, Carey E. Priebe<br>
-*IEEE Transactions on Pattern Analysis and Machine Intelligence* (2019), in press.<br>
-[[journal]](https://ieeexplore.ieee.org/abstract/document/8889404/) 
 
 
 * **Efficient distributed estimation of inverse covariance matrices**<br>
@@ -57,6 +53,10 @@ Shangsi Wang, *Jesús Arroyo*, Joshua T. Vogelstein, Carey E. Priebe<br>
 * **Multiple Network Embedding for Anomaly Detection in Time Series of Graphs**<br>
 Guodong Chen, *Jesús Arroyo*, Avanti Athreya, Joshua Cape, Joshua T. Vogelstein, Youngser Park, Chris White, Jonathan Larson, Weiwei Yang, Carey E. Priebe<br>
 [[preprint]](https://arxiv.org/abs/2008.10055)
+
+* **Statistical Connectomics**<br>
+Jaewon Chung, Eric Bridgeford, *Jesús Arroyo*, Benjamin D. Pedigo, Ali Saad-Eldin, Vivek Gopalakrishnan, Liang Xiang, Carey E. Priebe, Joshua T. Vogelstein<br>
+[[preprint]](https://osf.io/ek4n3)
 
 * **Simultaneous prediction and community detection for networks with application to neuroimaging**<br>
 *Jesús Arroyo*, Elizaveta Levina<br>

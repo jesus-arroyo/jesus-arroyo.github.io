@@ -6,7 +6,6 @@ description:
 nav: true
 ---
 
-Under construction...
 
 ## Interests
 
@@ -15,22 +14,28 @@ Under construction...
 - **Statistical machine learning and pattern recognition:** classification, regression, clustering, graph matching.
 - **Applications to neuroimaging:** statistical connectomics.
 
-## Overview
 
-I am interested in the statistical, theoretical and computational aspectsof methodologies for problems that arise in "big-data", particularly the ones involving *complex and high-dimensional datasets*. My research focuses on developing new tools to extract meaningful information from large and complex datasets, with focus on network data, including topics such as statistical modeling and machine learning forgraphs, spectral graph inference, and pattern recognition for networks.
+<details>
+<summary> <b>Overview</b> (<i>click to expand</i>) </summary><p>
 
-- Developing new statistical methodologies for complex and high-dimensional data to make*interpretable* and efficient inferences* by exploiting low-dimensional structures in the data.
+I am interested in the statistical, theoretical and computational aspectsof methodologies for problems that arise in "big-data", particularly the ones involving *complex and high-dimensional datasets*. My research focuses on a synergistic approach to combine the following themes.
 
-- Constructing computationally efficient and robust algorithms for large-scale data analysis, in particular through *spectral methods and convex optimization*.
+- Developing new statistical methodologies for complex and high-dimensional data to make*interpretable and efficient inferences* by exploiting low-dimensional structures in the data.
+
+- Constructing *computationally efficient and robust algorithms* for large-scale data analysis, in particular through spectral methods and convex optimization.
 
 - Studying the theoretical aspects of the above problems within a formal statistical framework to *quantify uncertainty* and to better *understand their non-asymptotic performanceand limitations*.
 
-- Algo de aplicaciones
+- Applying these methodologies to relevant scientific problems,  with a special focus on neuroscience applications to understand the connectivity of the brain.
 
+Broadly speaking, my work can be classified into three areas: statistical modeling,estimation and inference for network analysis, supervised and unsupervised learning methods forcomplex data types, and methodology and theory for pattern recognition in graphs.
 
+</p></details>
 
 <details>
-<summary> Network analysis (<i>click to expand</i>) </summary><p>
+<summary> <b>Network analysis</b> (<i>click to expand</i>) </summary><p>
+
+The analysis of network data has received increasing attention motivated by the study of complex systems with interactive units. Examples of these systems appearin social, biological and technological networks, among others fields. My work in this area focuses in addressing estimation and inference problems by exploiting low-dimensional representations using a combination of latent space models and spectral graph inference. I have worked in developing new methodologies with provable theoretical guarantees for performing network inferences tasks including community detection, dimensionality reduction, or graph hypothesis testing, particularly for problems involving multiple networks.
 
 <div class="row justify-content-sm-center">
     <div class="col-sm mt-3 mt-md-0">
@@ -42,26 +47,22 @@ I am interested in the statistical, theoretical and computational aspectsof met
 </div>
 
 
-**Selected publications**
+**References**
 
 * **Overlapping community detection in networks via sparse spectral decomposition**<br>
-**Jesús Arroyo**, Elizaveta Levina<br>
-*Sankhya A (Special Issue on Network Analysis), accepted pending minor revisions (2020)*<br>
+*Jesús Arroyo*, Elizaveta Levina<br>
+*Sankhya A (Special Issue on Network Analysis)* (2020), accepted pending minor revisions.<br>
 [[preprint]](https://arxiv.org/abs/2009.10641)[[code]](https://github.com/jesusdaniel/spcaCD)
-
 * **Inference for multiple heterogeneous networks with a common invariant subspace**<br>
-**Jesús Arroyo**, Avanti Athreya, Joshua Cape, Guodong Chen, Carey E. Priebe, Joshua T. Vogelstein<br>
-*Journal of Machine Learning (2020), to appear.*
- (2019). <br>
+*Jesús Arroyo*, Avanti Athreya, Joshua Cape, Guodong Chen, Carey E. Priebe, Joshua T. Vogelstein<br>
+*Journal of Machine Learning* (2020), to appear.<br>
 [[preprint]](https://arxiv.org/pdf/1906.10026.pdf)[[R code]](https://github.com/jesusdaniel/mase)[[Python code]](https://graspy.neurodata.io/reference/embed.html#multiple-graph-embedding)
-
 * **Joint embedding of graphs**<br>
-Shangsi Wang, **Jesús Arroyo**, Joshua T. Vogelstein, Carey E. Priebe<br>
-*IEEE Transactions on Pattern Analysis and Machine Intelligence (2019).*<br>
-[[journal]](https://ieeexplore.ieee.org/abstract/document/8889404/). 
-
+Shangsi Wang, *Jesús Arroyo*, Joshua T. Vogelstein, Carey E. Priebe<br>
+*IEEE Transactions on Pattern Analysis and Machine Intelligence* (2019), in press.<br>
+[[journal]](https://ieeexplore.ieee.org/abstract/document/8889404/) 
 * **Multiple Network Embedding for Anomaly Detection in Time Series of Graphs**<br>
-Guodong Chen, **Jesús Arroyo**, Avanti Athreya, Joshua Cape, Joshua T Vogelstein, Youngser Park, Chris White, Jonathan Larson, Weiwei Yang, Carey E Priebe<br>
+Guodong Chen, *Jesús Arroyo*, Avanti Athreya, Joshua Cape, Joshua T Vogelstein, Youngser Park, Chris White, Jonathan Larson, Weiwei Yang, Carey E Priebe<br>
 [[preprint]](https://arxiv.org/abs/2008.10055)
 
 </p></details>
@@ -70,9 +71,9 @@ Guodong Chen, **Jesús Arroyo**, Avanti Athreya, Joshua Cape, Joshua T Vogelstei
 
 
 <details>
-<summary>  Statistical Machine Learning (<i>click to expand</i>)</summary> 
+<summary>  <b>Statistical Learning</b> (<i>click to expand</i>)</summary> 
 
-Modern high-dimensional settings in statistics and machine learning are often concerned withvariable selection or regularization approaches to reduce the dimension of the problem andto discover meaningful associations between variables. These tasks become more challengingin complex datasets with additional multi-scale structure in the variables, such as networks,tensors or multimodal data. The structure of those datasets often results in strong correlationsand higher-order interactions between variables, which complicate the performance of existingtools, both theoretically and practically. Ecient and scalable algorithms are important toaddress these challenges in big data. As part of my research, I have worked in developingnew techniques to study these problems by introducing novel methodologies that deal with thecomplexity of the data eectively, resulting in improved theoretical and practical performance
+Modern high-dimensional settings in statistics and machine learning are often concerned withvariable selection or regularization approaches to reduce the dimension of the problem andto discover meaningful associations between variables. These tasks become more challengingin complex datasets with additional multi-scale structure in the variables, such as networks,tensors or multimodal data, which often show strong dependence associations between variables. I have worked in developingnew techniques to study these problems by introducing novel regularizations and methodologies that deal with thecomplexity of the data effectively in supervised learning with network-valued covariates, dimensionality reduction, graphical model learning, and applications to brain network classification.
 
 <div class="row justify-content-sm-center">
     <div class="col-sm mt-3 mt-md-0">
@@ -88,31 +89,27 @@ Modern high-dimensional settings in statistics and machine learning are often co
     </div>
 </div>
 
-**Selected publications**
+**References**
 
 * **Network classification with applications to brain connectomics**<br>
-**Jesús D. Arroyo Relión**, Daniel Kessler, Elizaveta Levina, Stephan F. Taylor<br>
-*The Annals of Applied Statistics, (2019) 13(3), 1648-1677.*<br>
+*Jesús D. Arroyo Relión*, Daniel Kessler, Elizaveta Levina, Stephan F. Taylor<br>
+*The Annals of Applied Statistics* (2019), 13(3), 1648-1677.<br>
 [[journal]](https://projecteuclid.org/euclid.aoas/1571277767) 
-
 * **Efficient distributed estimation of inverse covariance matrices**<br>
 *Jesús Arroyo*, Elizabeth Hou<br>
-*IEEE Statistical Signal Processing Workshop (SSP) (2016)*<br>
-[[conference proceedings]](https://ieeexplore.ieee.org/abstract/document/7551705). In 
-
+*IEEE Statistical Signal Processing Workshop (SSP)* (2016), pages 1-5.<br>
+[[conference proceedings]](https://ieeexplore.ieee.org/abstract/document/7551705)
 * **Simultaneous prediction and community detection for networks with application to neuroimaging**<br>
-**Jesús Arroyo**, Elizaveta Levina<br>
+*Jesús Arroyo*, Elizaveta Levina<br>
 [[preprint]](https://arxiv.org/pdf/2002.01645.pdf)[[code]](https://github.com/jesusdaniel/glmblock)
 
 
 </details>
 
 <details>
-<summary>  Pattern Recognition (<i>click to expand</i>)</summary><p> 
+<summary> <b>Pattern Recognition</b> (<i>click to expand</i>)</summary><p> 
 
-Identifying patterns or similarities between nodes in a graph is an important task inthe study of network data. 
-
-*Graph matching* is the problem of finding a meaningful correspondence between the nodes of two or more networks, and has applications rangingfrom neuroscience, image processing or data security. Part of my work has focused in studying this problem from a statistical framework, by developing flexible and tractable statistical models, and .
+Identifying patterns or similarities between nodes is an important task in the study of network data. *Graph matching* is the problem of finding a meaningful correspondence between the nodes of two or more networks, and has applications in fields such as neuroscience, image processing or data security. Part of my work has focused in studying this problem from a statistical framework, by developing flexible and tractable statistical models and efficient computational tools, and analyzing the theoretical performance and limitations of these methodologies.
 
 <div class="row justify-content-sm-center">
     <div class="col-sm mt-3 mt-md-0">
@@ -120,14 +117,14 @@ Identifying patterns or similarities between nodes in a graph is an important ta
     </div>
 </div>
 
-### Selected publications
+**References**
 
 * **Maximum Likelihood Estimation and Graph Matching in Errorfully Observed Networks**<br>
 *Jesús Arroyo*, Daniel L. Sussman, Carey E. Priebe, Vince Lyzinski<br>
-*Journal of Computational and Graphical Statistics (2020), to appear.*<br>
+*Journal of Computational and Graphical Statistics* (2020), to appear.<br>
 [[preprint]](https://arxiv.org/pdf/1812.10519.pdf) [[code]](https://github.com/dpmcsuss/gmmle)
 * **Graph matching between bipartite and unipartite networks: to collapse, or not to collapse, that is the question**<br>
-**Jesús Arroyo**, Carey E. Priebe, Vince Lyzinski<br>
+*Jesús Arroyo*, Carey E. Priebe, Vince Lyzinski<br>
 [[preprint]](https://arxiv.org/abs/2002.01648)
 
 
