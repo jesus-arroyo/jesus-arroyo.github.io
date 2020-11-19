@@ -276,6 +276,7 @@ PLATFORMS
 DEPENDENCIES
   github-pages
   jekyll
+  jekyll-commonmark-ghpages
   jekyll-email-protect
   jekyll-paginate-v2
   jekyll-scholar

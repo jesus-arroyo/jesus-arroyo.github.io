@@ -20,6 +20,6 @@ I am a Postdoctoral Fellow at the in the [Department of Mathematics](https://www
 
 My research interests include statistical network analysis, machine learning, high-dimensional data analysis, and applications to neuroimaging.
 
-Previously, I completed my PhD in the [Department of Statistics](https://lsa.umich.edu/stats) at the University of Michigan, advised by Professor [Liza Levina](http://dept.stat.lsa.umich.edu/~elevina/). I received a B.Sc. in Applied Mathematics and a B.Sc. in Computer Engineering from the [Mexico Autonomous Institute of Technology (ITAM)](http://www.itam.mx).
+Before, I completed my PhD in the [Department of Statistics](https://lsa.umich.edu/stats) at the University of Michigan, advised by Professor [Liza Levina](http://dept.stat.lsa.umich.edu/~elevina/). I received a B.Sc. in Applied Mathematics and a B.Sc. in Computer Engineering from the [Mexico Autonomous Institute of Technology (ITAM)](http://www.itam.mx).
 
 

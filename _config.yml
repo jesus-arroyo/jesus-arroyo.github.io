@@ -73,7 +73,7 @@ news_limit: 10
 # -----------------------------------------------------------------------------
 
 # Markdown and syntax highlight
-markdown: kramdown
+markdown: CommonMarkGhPages
 highlighter: rouge
 highlight_theme: github  # https://github.com/jwarby/jekyll-pygments-themes
 kramdown:
