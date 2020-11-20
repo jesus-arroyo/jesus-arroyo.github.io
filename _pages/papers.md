@@ -27,7 +27,7 @@ For a full list of articles, please check my [Google Scholar](https://scholar.go
 
 * **Inference for multiple heterogeneous networks with a common invariant subspace**<br>
 *Jesús Arroyo*, Avanti Athreya, Joshua Cape, Guodong Chen, Carey E. Priebe, Joshua T. Vogelstein<br>
-*Journal of Machine Learning* (2020), to appear.<br>
+*Journal of Machine Learning Research* (2020), to appear.<br>
 [[preprint]](https://arxiv.org/pdf/1906.10026.pdf)[[R code]](https://github.com/jesusdaniel/mase)[[Python code]](https://graspy.neurodata.io/reference/embed.html#graspologic.embed.MultipleASE)
 
 * **Joint embedding of graphs**<br>
