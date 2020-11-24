@@ -18,9 +18,9 @@ nav: true
 <details>
 <summary> <b>Overview</b> (<i>click to expand</i>) </summary><p>
 
-I am interested in the statistical, theoretical and computational aspectsof methodologies for problems that arise in "big-data", particularly the ones involving *complex and high-dimensional datasets*. My research focuses on a synergistic approach to combine the following themes.
+I am interested in the statistical, mathematical and computational aspectsof methodologies for problems that arise in data science, especially for *large and complex data*. My research combines the following themes.
 
-- Developing new statistical methodologies for complex and high-dimensional data to make*interpretable and efficient inferences* by exploiting low-dimensional structures in the data.
+- Developing statistical methodologies for complex and high-dimensional data to make*interpretable and efficient inferences* by exploiting low-dimensional structures in the data.
 
 - Constructing *computationally efficient and robust algorithms* for large-scale data analysis, in particular through spectral methods and convex optimization.
 
@@ -28,7 +28,7 @@ I am interested in the statistical, theoretical and computational aspectsof met
 
 - Applying these methodologies to relevant scientific problems,  with a special focus on neuroscience applications to understand the connectivity of the brain.
 
-Broadly speaking, my work can be classified into three areas: statistical modeling,estimation and inference for network analysis, supervised and unsupervised learning methods forcomplex data types, and methodology and theory for pattern recognition in graphs.
+Broadly speaking, my work can be classified into three areas: statistical modeling,estimation and inference for *network analysis*, supervised and unsupervised *machine learning* methods forcomplex data types, and methodology and theory for *pattern recognition* in graphs.
 
 </p></details>
 
