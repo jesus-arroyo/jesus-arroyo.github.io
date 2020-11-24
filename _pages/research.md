@@ -18,7 +18,7 @@ nav: true
 <details>
 <summary> <b>Overview</b> (<i>click to expand</i>) </summary><p>
 
-I am interested in the statistical, mathematical and computational aspectsof methodologies for problems that arise in data science, especially for *large and complex data*. My research combines the following themes.
+I am interested in the statistical, mathematical and computational aspectsof methodologies for problems that arise in data science, especially for *large and complex data*. My research combines the following themes.
 
 - Developing statistical methodologies for complex and high-dimensional data to make*interpretable and efficient inferences* by exploiting low-dimensional structures in the data.
 
