@@ -48,6 +48,8 @@ a:hover:after, table.table a:hover:after { width: 100%; }
 
 .news table td { font-size: 1rem; }
 
+.talks table td { font-size: 1rem; }
+
 .social { text-align: center; }
 .social .contact-icon { font-size: 4rem; }
 .social .contact-icon a { color: #424242; }

@@ -12,6 +12,7 @@ profile:
 
 
 news: true
+talks: true
 social: true
 ---
 
