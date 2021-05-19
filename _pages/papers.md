@@ -74,7 +74,7 @@ Guodong Chen, *Jesús Arroyo*, Avanti Athreya, Joshua Cape, Joshua T. Vogelstein
 I collaborate with [Mexicanos en Estadística y Salud](https://mxciencia.github.io/) on science communication. Here are some of our recent articles:
 
 * **Descifrar el Modelo Centinela**<br>
-Ernesto Ulloa, *Jesús Arroyo, Natalie Gasca, Susana Lozano-Esparza, Antonio Olivas, Pedro Orozco-del-Pino<br>
+Ernesto Ulloa, *Jesús Arroyo*, Natalie Gasca, Susana Lozano-Esparza, Antonio Olivas, Pedro Orozco-del-Pino<br>
 *Taller de Datos de la Revista Nexos*, 2020.<br>
 [[nexos]](https://datos.nexos.com.mx/descifrando-el-modelo-centinela/)[[punto.decimal]](https://puntodecimal.mx/ciencia/descifrando-el-modelo-centinela)
 
