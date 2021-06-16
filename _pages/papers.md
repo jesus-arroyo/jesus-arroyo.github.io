@@ -15,10 +15,15 @@ For a full list of articles, please check my [Google Scholar](https://scholar.go
 
 ### Refereed publications
 
+* **Overlapping community detection in networks via sparse spectral decomposition**<br>
+*Jesús Arroyo*, Elizaveta Levina<br>
+*Sankhya A (Special Issue on Network Analysis)* (2021).<br>
+[[journal]](https://link.springer.com/article/10.1007/s13171-021-00245-4)[[preprint]](https://arxiv.org/abs/2009.10641)[[code]](https://github.com/jesusdaniel/spcaCD)
+
 * **Graph matching between bipartite and unipartite networks: to collapse, or not to collapse, that is the question**<br>
 *Jesús Arroyo*, Carey E. Priebe, Vince Lyzinski<br>
 *IEEE Transactions in Network Science and Engineering* (2021), accepted.<br>
-[[preprint]](https://arxiv.org/abs/2002.01648)
+[[early access]](https://ieeexplore.ieee.org/abstract/document/9447239)[[preprint]](https://arxiv.org/abs/2002.01648)
 
 * **Maximum Likelihood Estimation and Graph Matching in Errorfully Observed Networks**<br>
 *Jesús Arroyo*, Daniel L. Sussman, Carey E. Priebe, Vince Lyzinski<br>
@@ -29,11 +34,6 @@ For a full list of articles, please check my [Google Scholar](https://scholar.go
 Jaewon Chung, Eric Bridgeford, *Jesús Arroyo*, Benjamin D. Pedigo, Ali Saad-Eldin, Vivek Gopalakrishnan, Liang Xiang, Carey E. Priebe, Joshua T. Vogelstein<br>
 *Annual Review of Statistics and Its Application* (2021)<br>
 [[journal]](https://www.annualreviews.org/doi/abs/10.1146/annurev-statistics-042720-023234)[[preprint]](https://osf.io/ek4n3)
-
-* **Overlapping community detection in networks via sparse spectral decomposition**<br>
-*Jesús Arroyo*, Elizaveta Levina<br>
-*Sankhya A (Special Issue on Network Analysis)* (2020), accepted.<br>
-[[preprint]](https://arxiv.org/abs/2009.10641)[[code]](https://github.com/jesusdaniel/spcaCD)
 
 * **Inference for multiple heterogeneous networks with a common invariant subspace**<br>
 *Jesús Arroyo*, Avanti Athreya, Joshua Cape, Guodong Chen, Carey E. Priebe, Joshua T. Vogelstein<br>
