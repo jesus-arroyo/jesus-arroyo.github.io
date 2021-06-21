@@ -71,7 +71,7 @@ Guodong Chen, *Jesús Arroyo*, Avanti Athreya, Joshua Cape, Joshua T. Vogelstein
 
 ### Other
 
-I collaborate with [Mexicanos en Estadística y Salud](https://mxciencia.github.io/) on science communication. Here are some of our recent articles:
+I collaborate with [Mexicanos en Estadística y Salud](https://mxciencia.github.io/) on science communication. Here is an [interview to the team](https://www.biostat.washington.edu/news/stories/mexicans-statistics-and-health-makes-covid-19-complexities-easier-understand), and some of our recent articles:
 
 * **Descifrar el Modelo Centinela**<br>
 Ernesto Ulloa, *Jesús Arroyo*, Natalie Gasca, Susana Lozano-Esparza, Antonio Olivas, Pedro Orozco-del-Pino<br>
