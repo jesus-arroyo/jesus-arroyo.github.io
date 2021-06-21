@@ -59,6 +59,10 @@ Shangsi Wang, *Jesús Arroyo*, Joshua T. Vogelstein, Carey E. Priebe<br>
 
 ### Pre-prints
 
+* **The Importance of Being Correlated: Implications of Dependence in Joint Spectral Inference across Multiple Networks**<br>
+Konstantinos Pantazis, Avanti Athreya, *Jesús Arroyo*, William N. Frost, Evan S. Hill and Vince Lyzinski<br>
+[[preprint]](https://arxiv.org/abs/2008.00163)
+
 * **Multiple Network Embedding for Anomaly Detection in Time Series of Graphs**<br>
 Guodong Chen, *Jesús Arroyo*, Avanti Athreya, Joshua Cape, Joshua T. Vogelstein, Youngser Park, Chris White, Jonathan Larson, Weiwei Yang, Carey E. Priebe<br>
 [[preprint]](https://arxiv.org/abs/2008.10055)
