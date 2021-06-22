@@ -18,12 +18,12 @@ For a full list of articles, please check my [Google Scholar](https://scholar.go
 * **Overlapping community detection in networks via sparse spectral decomposition**<br>
 *Jesús Arroyo*, Elizaveta Levina<br>
 *Sankhya A (Special Issue on Network Analysis)* (2021).<br>
-[[journal]](https://link.springer.com/article/10.1007/s13171-021-00245-4)[[preprint]](https://arxiv.org/abs/2009.10641)[[code]](https://github.com/jesusdaniel/spcaCD)
+[[journal]](https://rdcu.be/clHd0)[[preprint]](https://arxiv.org/abs/2009.10641)[[code]](https://github.com/jesusdaniel/spcaCD)
 
 * **Graph matching between bipartite and unipartite networks: to collapse, or not to collapse, that is the question**<br>
 *Jesús Arroyo*, Carey E. Priebe, Vince Lyzinski<br>
 *IEEE Transactions in Network Science and Engineering* (2021), accepted.<br>
-[[early access]](https://ieeexplore.ieee.org/abstract/document/9447239)[[preprint]](https://arxiv.org/abs/2002.01648)
+[[early access]](https://ieeexplore.ieee.org/abstract/document/9447239)[[preprint]](https://arxiv.org/abs/2002.01648)[[code]](https://github.com/jesusdaniel/rBipartiteUnipartiteMatch)
 
 * **Maximum Likelihood Estimation and Graph Matching in Errorfully Observed Networks**<br>
 *Jesús Arroyo*, Daniel L. Sussman, Carey E. Priebe, Vince Lyzinski<br>
@@ -33,7 +33,7 @@ For a full list of articles, please check my [Google Scholar](https://scholar.go
 * **Statistical Connectomics**<br>
 Jaewon Chung, Eric Bridgeford, *Jesús Arroyo*, Benjamin D. Pedigo, Ali Saad-Eldin, Vivek Gopalakrishnan, Liang Xiang, Carey E. Priebe, Joshua T. Vogelstein<br>
 *Annual Review of Statistics and Its Application* (2021)<br>
-[[journal]](https://www.annualreviews.org/doi/abs/10.1146/annurev-statistics-042720-023234)[[preprint]](https://osf.io/ek4n3)
+[[journal]](http://www.annualreviews.org/eprint/SPVAVYVUVY3CIVFZDWHY/full/10.1146/annurev-statistics-042720-023234)[[preprint]](https://osf.io/ek4n3)
 
 * **Inference for multiple heterogeneous networks with a common invariant subspace**<br>
 *Jesús Arroyo*, Avanti Athreya, Joshua Cape, Guodong Chen, Carey E. Priebe, Joshua T. Vogelstein<br>
@@ -48,7 +48,7 @@ Shangsi Wang, *Jesús Arroyo*, Joshua T. Vogelstein, Carey E. Priebe<br>
 * **Network classification with applications to brain connectomics**<br>
 *Jesús D. Arroyo Relión*, Daniel Kessler, Elizaveta Levina, Stephan F. Taylor<br>
 *The Annals of Applied Statistics* (2019), 13(3), 1648-1677.<br>
-[[journal]](https://projecteuclid.org/euclid.aoas/1571277767) 
+[[journal]](https://projecteuclid.org/euclid.aoas/1571277767)[[pdf]](/assets/pdf/AOAS1252.pdf) 
 
 * **Efficient distributed estimation of inverse covariance matrices**<br>
 *Jesús Arroyo*, Elizabeth Hou<br>
