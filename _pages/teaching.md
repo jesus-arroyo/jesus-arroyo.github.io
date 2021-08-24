@@ -8,14 +8,18 @@ nav: true
 ---
 
 
-### Instructor (Johns Hopkins University)
+### Texas A&M University
+
+* Mathematical Statistics I (STAT 414), *Fall 2021*.
+
+### Johns Hopkins University
 
 * Applied Statistics and Data Analysis II (EN.553.414/614), *Spring 2020*.
     * [Syllabus](/assets/pdf/asda2-2020-syllabus.pdf)
 
 
 
-### Graduate Student Instructor (University of Michigan)
+### University of Michigan (Graduate Student Instructor)
 
 - Introduction to Probability (Stats 425), *Fall 2013*.
 
