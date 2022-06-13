@@ -9,13 +9,13 @@ nav: true
 
 
 ### Texas A&M University
-
-* Mathematical Statistics I (STAT 414), *Fall 2021*.
+* Fall 2022: Mathematical Statistics I (STAT 414)
+* Spring 2022: Mathematical Statistics II (STAT 415) [[syllabus]](/assets/pdf/Spring2022-Stat415-Syllabus.pdf)
+* Fall 2021: Mathematical Statistics I (STAT 414) [[syllabus]](/assets/pdf/Fall2021-Stat414-Syllabus.pdf)
 
 ### Johns Hopkins University
 
-* Applied Statistics and Data Analysis II (EN.553.414/614), *Spring 2020*.
-    * [Syllabus](/assets/pdf/asda2-2020-syllabus.pdf)
+* Applied Statistics and Data Analysis II (EN.553.414/614), *Spring 2020*. [[syllabus]](/assets/pdf/asda2-2020-syllabus.pdf)
 
 
 
