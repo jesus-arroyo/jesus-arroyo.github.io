@@ -14,7 +14,7 @@ nav: true
 - **Applications to neuroimaging:** statistical connectomics.
 
 
-<details>
+<details markdown="1">
 <summary> <b>Overview</b> (<i>click to expand</i>) </summary><p>
 
 I am interested in the statistical, mathematical and computational aspectsof methodologies for problems that arise in data science, especially for *large and complex data*. My research combines the following themes.
