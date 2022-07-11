@@ -6,6 +6,10 @@ description:
 nav: true
 ---
 
+<details markdown="1">
+.. my stuff
+</details>
+
 ## Interests
 
 - **Statistical inference for networks:** latent space models, community detection, spectral graph inference.
