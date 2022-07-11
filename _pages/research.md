@@ -6,7 +6,6 @@ description:
 nav: true
 ---
 
-
 ## Interests
 
 - **Statistical inference for networks:** latent space models, community detection, spectral graph inference.
