@@ -3,12 +3,8 @@ layout: page
 permalink: /research/
 title: Research
 description: 
-nav: false
+nav: true
 ---
-
-<details markdown="1">
-.. my stuff
-</details>
 
 ## Interests
 
