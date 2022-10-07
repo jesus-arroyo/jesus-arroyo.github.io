@@ -79,6 +79,8 @@ talks_limit: 5
 
 # Markdown and syntax highlight
 markdown: CommonMarkGhPages
+commonmark:
+  options: ["SMART", "FOOTNOTES", "UNSAFE"]
 highlighter: rouge
 highlight_theme: github  # https://github.com/jwarby/jekyll-pygments-themes
 kramdown:
