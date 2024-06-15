@@ -19,7 +19,7 @@ nav: true
 
 ### Undergraduate Students
 
-* Adam Author
+* Adam Authur
 
 * Gage Sanders
 
