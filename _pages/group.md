@@ -26,5 +26,5 @@ nav: true
 
 ### Alumni: 
 
-* Master Students: Tiffany Chang (2022 - 2023)
+* Master Students: Tiffany Chang (2022 - 2024)
 * Undergraduate students: Melinda Chen (2022), Wesley Halstead (2022), Xingyu Liu (2023), Yufan Li (2023).
