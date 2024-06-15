@@ -11,7 +11,7 @@ nav: true
 
 ## Selected publications and pre-prints
 
-For a full list of articles, please check my [Google Scholar](https://scholar.google.com/citations?user=Pt0QJm4AAAAJ&hl=es&authuser=1).
+This page is updated occasionally. For a recent list of articles, please check my [Google Scholar](https://scholar.google.com/citations?user=Pt0QJm4AAAAJ&hl=es&authuser=1).
 
 ### Refereed publications
 
