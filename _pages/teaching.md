@@ -41,6 +41,7 @@ Graduate-level introduction to advanced linear and generalized linear regression
 
 - **STATS 503: Applied Multivariate Analysis**  *Winter 2015/2016/[2017](https://github.com/rogerfan/stats503_w17_labs)*
 
+
 ### Other
 
 - **Instructor at [Clubes de Ciencia Mexico](https://clubesdeciencia.mx/nuestros-clubes-chi2017/)**. *Summer 2017*
