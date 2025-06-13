@@ -27,5 +27,5 @@ In 2018, completed my PhD in Statistics at the [University of Michigan](https://
 From August 2018 to 2021, I was a postdoctoral researcher in the [Center for Imaging Science](https://www.cis.jhu.edu/) at Johns Hopkins University, and in the [Department of Mathematics](https://www-math.umd.edu/) at the University of Maryland, College Park, working with with Professors
 [Carey E. Priebe](http://www.ams.jhu.edu/~priebe/) and [Joshua T. Vogelstein](https://jovo.me/) at JHU, and with Professor [Vince Lyzinski](https://www.math.umd.edu/~vlyzinsk/) at UMD. 
 
-My research is supported by the National Science Foundation grant [NSF DMS-2413553](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2413553)
+My research is supported by the National Science Foundation grant [NSF DMS-2413553](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2413553).
 
