@@ -12,7 +12,7 @@ nav: true
 
 * Carson James
 
-* Trisha Dawn (main advisor: Dr. Yang Ni)
+* Trisha Dawn (co-advisor: Dr. Yang Ni)
 
 * Taeseok Park
 
@@ -21,10 +21,8 @@ nav: true
 
 * Adam Authur
 
-* Gage Sanders
-
 
 ### Alumni: 
 
 * Master Students: Tiffany Chang (2022 - 2024)
-* Undergraduate students: Melinda Chen (2022), Wesley Halstead (2022), Xingyu Liu (2023), Yufan Li (2023).
+* Undergraduate students: Melinda Chen (2022), Wesley Halstead (2022), Xingyu Liu (2023), Yufan Li (2023), Gage Sanders (2024).
