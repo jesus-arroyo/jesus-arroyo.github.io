@@ -1,0 +1,29 @@
+/Library/Developer/CommandLineTools/usr/bin/make  install-recursive
+Making install in include
+Making install in libxml
+make[4]: Nothing to be done for `install-exec-am'.
+ ../.././install-sh -c -d '/Users/jdar/My Drive/Website/jesus-arroyo.github.io/vendor/bundle/ruby/2.6.0/gems/nokogiri-1.10.10/ports/x86_64-apple-darwin24/libxml2/2.9.10/include/libxml2/libxml'
+ /usr/bin/install -c -m 644 SAX.h entities.h encoding.h parser.h parserInternals.h xmlerror.h HTMLparser.h HTMLtree.h debugXML.h tree.h list.h hash.h xpath.h xpathInternals.h xpointer.h xinclude.h xmlIO.h xmlmemory.h nanohttp.h nanoftp.h uri.h valid.h xlink.h xmlversion.h DOCBparser.h catalog.h threads.h globals.h c14n.h xmlautomata.h xmlregexp.h xmlmodule.h xmlschemas.h schemasInternals.h xmlschemastypes.h xmlstring.h xmlunicode.h xmlreader.h relaxng.h dict.h '/Users/jdar/My Drive/Website/jesus-arroyo.github.io/vendor/bundle/ruby/2.6.0/gems/nokogiri-1.10.10/ports/x86_64-apple-darwin24/libxml2/2.9.10/include/libxml2/libxml'
+ /usr/bin/install -c -m 644 SAX2.h xmlexports.h xmlwriter.h chvalid.h pattern.h xmlsave.h schematron.h '/Users/jdar/My Drive/Website/jesus-arroyo.github.io/vendor/bundle/ruby/2.6.0/gems/nokogiri-1.10.10/ports/x86_64-apple-darwin24/libxml2/2.9.10/include/libxml2/libxml'
+make[4]: Nothing to be done for `install-exec-am'.
+make[4]: Nothing to be done for `install-data-am'.
+Making install in .
+ ./install-sh -c -d '/Users/jdar/My Drive/Website/jesus-arroyo.github.io/vendor/bundle/ruby/2.6.0/gems/nokogiri-1.10.10/ports/x86_64-apple-darwin24/libxml2/2.9.10/lib'
+ /bin/sh ./libtool   --mode=install /usr/bin/install -c   libxml2.la '/Users/jdar/My Drive/Website/jesus-arroyo.github.io/vendor/bundle/ruby/2.6.0/gems/nokogiri-1.10.10/ports/x86_64-apple-darwin24/libxml2/2.9.10/lib'
+libtool: install: /usr/bin/install -c .libs/libxml2.lai /Users/jdar/My Drive/Website/jesus-arroyo.github.io/vendor/bundle/ruby/2.6.0/gems/nokogiri-1.10.10/ports/x86_64-apple-darwin24/libxml2/2.9.10/lib/libxml2.la
+install: target directory `Drive/Website/jesus-arroyo.github.io/vendor/bundle/ruby/2.6.0/gems/nokogiri-1.10.10/ports/x86_64-apple-darwin24/libxml2/2.9.10/lib/libxml2.la' does not exist
+usage: install [-bCcpSsUv] [-f flags] [-g group] [-m mode] [-o owner]
+               [-M log] [-D dest] [-h hash] [-T tags]
+               [-B suffix] [-l linkflags] [-N dbdir]
+               file1 file2
+       install [-bCcpSsUv] [-f flags] [-g group] [-m mode] [-o owner]
+               [-M log] [-D dest] [-h hash] [-T tags]
+               [-B suffix] [-l linkflags] [-N dbdir]
+               file1 ... fileN directory
+       install -dU [-vU] [-g group] [-m mode] [-N dbdir] [-o owner]
+               [-M log] [-D dest] [-h hash] [-T tags]
+               directory ...
+make[3]: *** [install-libLTLIBRARIES] Error 64
+make[2]: *** [install-am] Error 2
+make[1]: *** [install-recursive] Error 1
+make: *** [install] Error 2

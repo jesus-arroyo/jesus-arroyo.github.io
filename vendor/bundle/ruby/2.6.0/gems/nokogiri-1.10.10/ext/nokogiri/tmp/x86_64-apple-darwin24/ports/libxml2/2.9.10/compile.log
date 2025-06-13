@@ -1,0 +1,122 @@
+/Library/Developer/CommandLineTools/usr/bin/make  all-recursive
+Making all in include
+Making all in libxml
+make[3]: Nothing to be done for `all'.
+make[3]: Nothing to be done for `all-am'.
+Making all in .
+  CC       xmllint.o
+  CC       SAX.lo
+  CC       entities.lo
+entities.c:561:68: warning: unused parameter 'attr' [-Wunused-parameter]
+  561 | xmlEncodeEntitiesInternal(xmlDocPtr doc, const xmlChar *input, int attr) {
+      |                                                                    ^
+1 warning generated.
+  CC       encoding.lo
+encoding.c:500:26: warning: cast from 'const unsigned char *' to 'unsigned short *' increases required alignment from 1 to 2 [-Wcast-align]
+  500 |     unsigned short* in = (unsigned short*) inb;
+      |                          ^~~~~~~~~~~~~~~~~~~~~
+encoding.c:582:27: warning: cast from 'unsigned char *' to 'unsigned short *' increases required alignment from 1 to 2 [-Wcast-align]
+  582 |     unsigned short* out = (unsigned short*) outb;
+      |                           ^~~~~~~~~~~~~~~~~~~~~~
+encoding.c:738:26: warning: cast from 'const unsigned char *' to 'unsigned short *' increases required alignment from 1 to 2 [-Wcast-align]
+  738 |     unsigned short* in = (unsigned short*) inb;
+      |                          ^~~~~~~~~~~~~~~~~~~~~
+encoding.c:824:27: warning: cast from 'unsigned char *' to 'unsigned short *' increases required alignment from 1 to 2 [-Wcast-align]
+  824 |     unsigned short* out = (unsigned short*) outb;
+      |                           ^~~~~~~~~~~~~~~~~~~~~~
+encoding.c:2397:12: warning: variable 'writtentot' set but not used [-Wunused-but-set-variable]
+ 2397 |     size_t writtentot = 0;
+      |            ^
+encoding.c:2570:9: warning: variable 'writtentot' set but not used [-Wunused-but-set-variable]
+ 2570 |     int writtentot = 0;
+      |         ^
+encoding.c:2572:9: warning: variable 'output' set but not used [-Wunused-but-set-variable]
+ 2572 |     int output = 0;
+      |         ^
+7 warnings generated.
+  CC       error.lo
+  CC       parserInternals.lo
+  CC       parser.lo
+  CC       tree.lo
+  CC       hash.lo
+  CC       list.lo
+  CC       xmlIO.lo
+  CC       xmlmemory.lo
+  CC       uri.lo
+  CC       valid.lo
+  CC       xlink.lo
+  CC       HTMLparser.lo
+  CC       HTMLtree.lo
+  CC       debugXML.lo
+  CC       xpath.lo
+xpath.c:10489:9: warning: variable 'len' set but not used [-Wunused-but-set-variable]
+ 10489 |     int len = 0, l;
+       |         ^
+xpath.c:13627:9: warning: variable 'nb_nodes' set but not used [-Wunused-but-set-variable]
+ 13627 |     int nb_nodes = 0;
+       |         ^
+2 warnings generated.
+  CC       xpointer.lo
+  CC       xinclude.lo
+  CC       nanohttp.lo
+  CC       nanoftp.lo
+  CC       catalog.lo
+catalog.c:2188:9: warning: variable 'count' set but not used [-Wunused-but-set-variable]
+ 2188 |     int count = 0;
+      |         ^
+1 warning generated.
+  CC       globals.lo
+  CC       threads.lo
+  CC       c14n.lo
+  CC       xmlstring.lo
+  CC       buf.lo
+  CC       xmlregexp.lo
+  CC       xmlschemas.lo
+xmlschemas.c:21755:9: warning: variable 'count' set but not used [-Wunused-but-set-variable]
+ 21755 |     int count = 0;
+       |         ^
+1 warning generated.
+  CC       xmlschemastypes.lo
+  CC       xmlunicode.lo
+  CC       xmlreader.lo
+  CC       relaxng.lo
+  CC       dict.lo
+dict.c:1006:30: warning: variable 'nbi' set but not used [-Wunused-but-set-variable]
+ 1006 |     unsigned long key, okey, nbi = 0;
+      |                              ^
+1 warning generated.
+  CC       SAX2.lo
+  CC       xmlwriter.lo
+  CC       legacy.lo
+  CC       chvalid.lo
+  CC       pattern.lo
+  CC       xmlsave.lo
+  CC       xmlmodule.lo
+  CC       schematron.lo
+  CC       xzlib.lo
+  CCLD     libxml2.la
+/Library/Developer/CommandLineTools/usr/bin/ranlib: file: .libs/libxml2.a(xzlib.o) has no symbols
+/Library/Developer/CommandLineTools/usr/bin/ranlib: file: .libs/libxml2.a(xzlib.o) has no symbols
+  CCLD     xmllint
+  CC       xmlcatalog.o
+  CCLD     xmlcatalog
+  CC       testdso.lo
+  CCLD     testdso.la
+sed -e 's?\@XML_LIBDIR\@?-L/Users/jdar/My Drive/Website/jesus-arroyo.github.io/vendor/bundle/ruby/2.6.0/gems/nokogiri-1.10.10/ports/x86_64-apple-darwin24/libxml2/2.9.10/lib?g' \
+	    -e 's?\@XML_INCLUDEDIR\@?-I/Users/jdar/My Drive/Website/jesus-arroyo.github.io/vendor/bundle/ruby/2.6.0/gems/nokogiri-1.10.10/ports/x86_64-apple-darwin24/libxml2/2.9.10/include/libxml2?g' \
+	    -e 's?\@VERSION\@?2.9.10?g' \
+	    -e 's?\@XML_LIBS\@?-lxml2?g' \
+	    -e 's?\@XML_PRIVATE_LIBS\@?-lz  -lpthread  -liconv  -lm ?g' \
+	       < ./xml2Conf.sh.in > xml2Conf.tmp \
+	&& mv xml2Conf.tmp xml2Conf.sh
+Making all in doc
+Making all in .
+make[3]: Nothing to be done for `all-am'.
+Making all in devhelp
+make[3]: Nothing to be done for `all'.
+Making all in examples
+make[3]: Nothing to be done for `all'.
+Making all in example
+make[2]: Nothing to be done for `all'.
+Making all in xstc
+make[2]: Nothing to be done for `all'.
